@@ -1,0 +1,4 @@
+Which git command would you use to: 
+a. View the history of the repository git log
+b. If there are outstanding commits to do git status
+c. Start a new repository git init
